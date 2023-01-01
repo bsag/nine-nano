@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/symbols/promicro_library/promicro.kicad_sym")(options "")(descr ""))
+  (lib (name "nice_nano")(type "KiCad")(uri "${KIPRJMOD}/symbols/nice_nano/nice_nano.kicad_sym")(options "")(descr ""))
+)

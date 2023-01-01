@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/jackie/git/github/nine-nano/nine-nano.kicad_sch</source>
+    <date>Saturday, 31 December 2022 at 13:55:56</date>
+    <tool>Eeschema (6.0.8-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Nine Nice!Nano</title>
+        <company/>
+        <rev>v1</rev>
+        <date>2022-11-12</date>
+        <source>nine-nano.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>JST connector</value>
+      <footprint>footprints:JST-ZH-2p-1.5</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a11a5932-d1cb-4ae9-b5d4-d1b3107ec7bf</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>nice!view</value>
+      <footprint>footprints:OLED_5Pin</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>564c1972-b2c5-44fa-a299-258b95a736e3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>nice!view</value>
+      <footprint>footprints:OLED_5Pin</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57ea4cf8-8a74-41cd-8323-639f56817104</tstamps>
+    </comp>
+    <comp ref="RESET1">
+      <value>SW_Push</value>
+      <footprint>footprints:b3u1000p</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9437e6e-f133-42af-985e-6b56d530017d</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1.25U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b4c4f52-e3a6-44a5-8879-3bb7dd8f0327</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>455bcf62-7734-4584-b4c2-4d21bd991c88</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d31a9264-16ba-421a-b44b-499c753421dd</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c133c7a-ef94-4eff-8455-044a58ad628f</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2591e1d1-5240-4d8f-af59-228621639e9e</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5048f1b2-866b-4abb-b6ea-4c83218bf840</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f58eb67c-a997-4f6f-b883-209686cea946</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1.25U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c63a1a7-3f6e-425b-9ff6-9b6f6ec9b2ba</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>footprints:pg1350-rev-hs-1.25U</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66983365-abc4-405c-a40b-25c9d9e0d6de</tstamps>
+    </comp>
+    <comp ref="SWF1">
+      <value>Power on/off switch</value>
+      <footprint>footprints:pwr-sw-smd-pcm12</footprint>
+      <libsource lib="Switch" part="SW_DPDT_x2" description="Switch, dual pole double throw, separate symbols"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b349b43d-42ec-4308-9cae-ff1e3fd11176</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>nice_nano</value>
+      <footprint>footprints:nice-nano-no-rev</footprint>
+      <libsource lib="" part="nice_nano_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: nine-nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b85b3116-15d3-4d03-a3bf-bbc64d1dee77</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="nice_nano_1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">nice_nano_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX0/P0.06" type="input"/>
+        <pin num="2" name="RX1/P0.08" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="P0.17" type="input"/>
+        <pin num="6" name="P0.20" type="input"/>
+        <pin num="7" name="P0.22" type="input"/>
+        <pin num="8" name="P0.24" type="input"/>
+        <pin num="9" name="P1.00" type="input"/>
+        <pin num="10" name="P0.11" type="input"/>
+        <pin num="11" name="P1.04" type="input"/>
+        <pin num="12" name="P1.06" type="input"/>
+        <pin num="13" name="NFC1/P0.09" type="input"/>
+        <pin num="14" name="NFC2/P0.10" type="input"/>
+        <pin num="15" name="P1.11" type="input"/>
+        <pin num="16" name="P1.13" type="input"/>
+        <pin num="17" name="P1.15" type="input"/>
+        <pin num="18" name="AIN0/P0.02" type="input"/>
+        <pin num="19" name="AIN5/P0.29" type="input"/>
+        <pin num="20" name="AIN7/P0.31" type="input"/>
+        <pin num="21" name="VCC" type="input"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="BATIN/P0.04" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DPDT_x2">
+      <description>Switch, dual pole double throw, separate symbols</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW*DPDT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DPDT_x2</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BAT+">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SWF1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="2" name="BATIN">
+      <node ref="SWF1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="BATIN/P0.04" pintype="input"/>
+    </net>
+    <net code="3" name="CS">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="TX0/P0.06" pintype="input"/>
+    </net>
+    <net code="4" name="D5">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="P0.24" pintype="input"/>
+    </net>
+    <net code="5" name="D6">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="P1.00" pintype="input"/>
+    </net>
+    <net code="6" name="D7">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="P0.11" pintype="input"/>
+    </net>
+    <net code="7" name="D8">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="P1.04" pintype="input"/>
+    </net>
+    <net code="8" name="D14">
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="P1.11" pintype="input"/>
+    </net>
+    <net code="9" name="D15">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="P1.13" pintype="input"/>
+    </net>
+    <net code="10" name="D19">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AIN0/P0.02" pintype="input"/>
+    </net>
+    <net code="11" name="D20">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="AIN5/P0.29" pintype="input"/>
+    </net>
+    <net code="12" name="D21">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AIN7/P0.31" pintype="input"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="RESET1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="14" name="MOSI">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="P0.17" pintype="input"/>
+    </net>
+    <net code="15" name="RST">
+      <node ref="RESET1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="16" name="SCK">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="P0.20" pintype="input"/>
+    </net>
+    <net code="17" name="VCC">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="18" name="unconnected-(SWF1-Pad3)">
+      <node ref="SWF1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="RX1/P0.08" pintype="input+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="P0.22" pintype="input+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="P1.06" pintype="input+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="NFC1/P0.09" pintype="input+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="NFC2/P0.10" pintype="input+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="P1.15" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
