@@ -16,7 +16,7 @@ If you need information about how the board is wired up, PDFs of the [schematic]
 
 ## Case
 
-The `.stl` files needed to build the case, as well as the [Shapr3D source file](case/nine%20case.shapr) are in the [case](case/) directory. You will also find a file there with a basic 3D model of the PCB plus the main board components if you need a reference to build your own case. It's pretty bad though, as I couldn't figure out how to export the model with the surface-mounted components included. If you know how to impove this, please let me know --- it would have made designing the case much easier!
+The `.stl` files needed to build the case, as well as the [Shapr3D source file](case/nine%20case.shapr) are in the [case](case/) directory. You will also find a file there with a basic 3D model of the PCB plus the main board components if you need a reference to build your own case. It's pretty bad though, as I couldn't figure out how to export the model with the surface-mounted components included. If you know how to improve this, please let me know --- it would have made designing the case much easier!
 
 The [build guide](docs/build_guide.md) includes a section on getting the case printed and assembled too. Note that I have only got the case printed in resin, so I cannot guarantee that the tolerances etc. would be correct for printing in PLA or other materials. 
 
